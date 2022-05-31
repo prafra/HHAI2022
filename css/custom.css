@@ -1,0 +1,4 @@
+table.table-session > tbody > tr > td:nth-of-type(1) {
+    color: white;
+    min-width: 150px;
+}
